@@ -1,6 +1,6 @@
-# Your custom Twilio Flex Plugin
+# plugin-wfo-dual-channel
 
-Twilio Flex Plugins allow you to customize the apperance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the API, check out our [Flex documentation](https://www.twilio.com/docs/flex).
+This plugin records the agent leg of the call and posts that to Twilio WFO at the completion of the recording.
 
 ## Setup
 
