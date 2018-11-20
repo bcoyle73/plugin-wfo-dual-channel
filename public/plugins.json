@@ -1,0 +1,18 @@
+[
+  {
+    "name": "WfoDualChannelPlugin",
+    "version": "0.0.0",
+    "class": "WfoDualChannelPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1.0.0"
+      }
+    ],
+    "src": "http://localhost:8080/plugin-wfo-dual-channel.js"
+  },
+  {
+    "name": "Admin Plugin",
+    "version": "0.6.3",
+    "src": "https://flexperience.twil.io/assets/flex.admin.plugin-0.6.3.js"
+  }
+]
