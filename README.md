@@ -2,6 +2,8 @@
 
 This plugin records the agent leg of the call and posts that to Twilio WFO at the completion of the recording.
 
+*Note: When doing a call transfer the recording will stop and not record the conversation with the new agent and customer
+
 ## Setup
 
 Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmjs.com) installed.
